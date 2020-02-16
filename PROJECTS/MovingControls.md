@@ -115,14 +115,14 @@ namespace WpfApp1
 * [**Application Properties**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.application.properties) <br>
  used instead of global variables to host moving control event data;
 * [**Horizontal**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement.horizontalalignment) and [**Vertical**](https://docs.microsoft.com/en-us/uwp/api/windows.ui.xaml.frameworkelement.verticalalignment) alignment, [**Margin**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement.margin)<br>
-used at Window and Host Container to proper indicate moving control functionally;
+used to proper indicate moving control functionally;
 * **Mouse Events**<br>
 used as standardize mouse operations that can be set to controls in the application;
 * [**(System.Windows.FrameworkElement)**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement)<br>
  used to perform compatibility in access to common control properties of from different types for usability;
-* [System.Windows.Input.Mouse.Capture](https://docs.microsoft.com/en-us/dotnet/api/system.windows.input.mouse.capture)<br>
+* [**System.Windows.Input.Mouse.Capture**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.input.mouse.capture)<br>
  used to prevent Moving Control operations from losing focus out from default situations;
-* [System.Windows.Thickness](https://docs.microsoft.com/en-us/dotnet/api/system.windows.thickness)<br>
+* [**System.Windows.Thickness**](https://docs.microsoft.com/en-us/dotnet/api/system.windows.thickness)<br>
 used as the source control for positioning coordenates of a element in the application window Host container;
 
 `this sample setup illustrate the usability of mouse operations in the application;`<br>
