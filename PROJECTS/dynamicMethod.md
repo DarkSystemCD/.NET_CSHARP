@@ -9,6 +9,8 @@
 🚧version 0.1<br>
 `Samples on how to make a Method return multiple type(value);`<hr>
 
+#### Build the Method;
+
 ```c#
 internal static dynamic dynamicMethod(System.Int32 V1,System.Byte V2){
   dynamic Result = null;
@@ -32,6 +34,15 @@ internal static dynamic dynamicMethod(System.Int32 V1,System.Byte V2){
   return Result;
 }
 ```
+
+#### Method Usage;
+
+```c#
+System.Int32 vartest2 = Get(1,1);
+System.Boolean vartest3 = Get(2,2);
+System.String vartest1 = Get(3,3);
+```
+
 <hr>
 
 ### Descriptions
