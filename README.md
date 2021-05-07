@@ -2,6 +2,6 @@
 DarkSystemCD® : .NET C# Productions
 
 ## 📘 HOW TO . . .
-COMPONENTS
-- Custom Property
+Classes and Structs
+- Properties
 - - Property Array
