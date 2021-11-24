@@ -3,5 +3,6 @@ DarkSystemCD® : .NET C# Reference
 
 ## 📘 HOW TO . . .
 Classes and Structs
-- Properties
-- - Property Array
+- Application
+  - Properties
+    - Property Array
