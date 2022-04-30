@@ -1,0 +1,101 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <!-- Framework Properties ============================================= -->
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <UseWPF>true</UseWPF>
+    <OutputType>WinExe</OutputType>
+    <OutputPath>bin\Debug\</OutputPath>
+
+  <!-- Assembly Attribute Properties ==================================== -->
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <RootNamespace>MyNamespaceName</RootNamespace>
+    <StartupObject>MyNamespaceName.ClassContainingMain</StartupObject>
+    <ApplicationIcon />
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateAssemblyInfoFile>false</GenerateAssemblyInfoFile>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Product>MyApplicationName</Product>
+    <AssemblyTitle>MyApplicationTaskManagerTitle</AssemblyTitle>
+    <AssemblyName>MyApplicationFileName</AssemblyName>
+    <Company>MyApplicationBrand</Company>
+    <Copyright>All Rights Reserved.</Copyright>
+    <Description>MyApplicationQuoteLine</Description>
+
+    <AssemblyVersion></AssemblyVersion>
+    <InformalVersion></InformalVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+
+    <Configuration></Configuration>
+
+  <!-- Publish-Related Properties ======================================= -->
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+    <PreserveCompilationContext>false</PreserveCompilationContext>
+    <PreserveCompilationReferences>false</PreserveCompilationReferences>
+    <SatelliteResourceLanguages>en-US</SatelliteResourceLanguages>
+
+  <!-- Compilation-Related Properties =================================== -->
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <EnablePreviewFeatures>false</EnablePreviewFeatures>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+
+    <ErrorReport>none</ErrorReport>
+    <CodeAnalysisRuleSet />
+    <DefineConstants />
+
+  <!-- Default Item Inclusion Properties ================================ -->
+
+  <!-- Code Analysis Properties ========================================= -->
+
+  <!-- Runtime Configuration Properties ================================= -->
+
+  <!-- Reference Properties ============================================= -->
+    <ValidateExecutableReferencesMatchSelfContained>true</ValidateExecutableReferencesMatchSelfContained>
+    <IsPublishable>False</IsPublishable>
+    <PlatformTarget>x64</PlatformTarget>
+    <BaseOutputPath>bin\</BaseOutputPath>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <PackageTags />
+    <EnableNETAnalyzers>False</EnableNETAnalyzers>
+
+  <!-- Run-Related Properties =========================================== -->
+    <!-- <RunArguments>-mode none</RunArguments> -->
+
+  <!-- Hosting-Related Properties ======================================= -->
+
+  <!-- Generated File Properties ======================================== -->
+
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <!-- ============================= -->
+
+  <ItemGroup>
+    <!-- Solution Default =============================================== -->
+
+    <Compile Include="..\OTHERFILES\myfile1.cs" Link="myfile1.cs" />
+    <Resource Include="..\RESOURCES\*" />
+
+  </ItemGroup>
+
+</Project>
