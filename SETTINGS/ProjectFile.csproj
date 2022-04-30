@@ -6,12 +6,12 @@
     <LangVersion>9.0</LangVersion>
     <UseWPF>true</UseWPF>
     <OutputType>WinExe</OutputType>
-    <OutputPath>bin\Debug\</OutputPath>
+    <!-- <OutputPath>bin\Debug\</OutputPath> -->
 
   <!-- Assembly Attribute Properties ==================================== -->
     <NeutralLanguage>en-US</NeutralLanguage>
-    <RootNamespace>MyNamespaceName</RootNamespace>
-    <StartupObject>MyNamespaceName.ClassContainingMain</StartupObject>
+    <!-- <RootNamespace>MyNamespaceName</RootNamespace> -->
+    <!-- <StartupObject>MyNamespaceName.ClassContainingMain</StartupObject> -->
     <ApplicationIcon />
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <GenerateAssemblyInfoFile>false</GenerateAssemblyInfoFile>
