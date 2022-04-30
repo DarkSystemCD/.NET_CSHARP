@@ -93,8 +93,8 @@
   <ItemGroup>
     <!-- Solution Default =============================================== -->
 
-    <Compile Include="..\OTHERFILES\myfile1.cs" Link="myfile1.cs" />
-    <Resource Include="..\RESOURCES\*" />
+    <!-- <Compile Include="..\OTHERFILES\myfile1.cs" Link="myfile1.cs" /> -->
+    <!-- <Resource Include="..\RESOURCES\*" /> -->
 
   </ItemGroup>
 
