@@ -1,3 +1,6 @@
+:file_folder: [VSCODE PROJECT FILE](https://github.com/DarkSystemCD/.NET_CSHARP/blob/master/SETTINGS/ProjectFile.MD)
+
+
 ## C Sharp | C# :: VISUAL STUDIO SETTINGS
 
 Features productivity collection for customization and personalization of program options;
