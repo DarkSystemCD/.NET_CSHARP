@@ -2,11 +2,10 @@
 
             <PropertyGroup>
             <!-- Framework Properties ============================================= -->
-                <TargetFramework>net6.0-windows</TargetFramework>
-                <LangVersion>9.0</LangVersion>
+                <TargetFramework>net7.0-windows</TargetFramework>
+                <LangVersion>11.0</LangVersion>
                 <UseWPF>true</UseWPF>
                 <OutputType>WinExe</OutputType>
-                <!-- <OutputPath>bin\Debug\</OutputPath> -->
 
             <!-- Assembly Attribute Properties ==================================== -->
                 <NeutralLanguage>en-US</NeutralLanguage>
