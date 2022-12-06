@@ -1,5 +1,7 @@
-:file_folder: [VSCODE PROJECT FILE](https://github.com/DarkSystemCD/.NET_CSHARP/blob/master/SETTINGS/ProjectFile.MD)
+### :file_folder: [VSCODE PROJECT FILE](https://github.com/DarkSystemCD/.NET_CSHARP/blob/master/SETTINGS/ProjectFile.MD) 
+presents productivity sample in project file customization
 
+---
 
 ## C Sharp | C# :: VISUAL STUDIO SETTINGS
 
@@ -14,10 +16,3 @@ Features productivity collection for customization and personalization of progra
 
 ---
 
-## C Sharp | C# :: VSCODE PROJECT FILE
-
-Features productivity sample for customization and personalization of project file;
-
-:octocat: [ProjectFile.csproj](https://github.com/DarkSystemCD/.NET_CSHARP/blob/master/SETTINGS/ProjectFile.csproj)
-
----
