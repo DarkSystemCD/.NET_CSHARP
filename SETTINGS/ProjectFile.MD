@@ -11,10 +11,10 @@
 
             <!-- Assembly Attribute Properties ==================================== -->
                 <NeutralLanguage>en-US</NeutralLanguage>
-                <!-- <RootNamespace>MyNamespaceName</RootNamespace> -->
-                <!-- <StartupObject>MyNamespaceName.ClassContainingMain</StartupObject> -->
+                <RootNamespace>MainSpace</RootNamespace>
+                <StartupObject>MainSpace.MainClass</StartupObject>
                 <ApplicationIcon />
-                <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+                <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
                 <GenerateAssemblyInfoFile>false</GenerateAssemblyInfoFile>
                 <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
 
