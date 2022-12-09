@@ -2,10 +2,12 @@
 
             <PropertyGroup>
             <!-- Framework Properties ============================================= -->
-                <TargetFramework>net7.0-windows</TargetFramework>
-                <LangVersion>11.0</LangVersion>
                 <UseWPF>true</UseWPF>
+                <Nullable>disable</Nullable>
+                <LangVersion>11.0</LangVersion>
                 <OutputType>WinExe</OutputType>
+                <NoWarn> 0219; 0414; 8321; </NoWarn>
+                <TargetFramework>net7.0-windows</TargetFramework>
 
             <!-- Assembly Attribute Properties ==================================== -->
                 <NeutralLanguage>en-US</NeutralLanguage>
