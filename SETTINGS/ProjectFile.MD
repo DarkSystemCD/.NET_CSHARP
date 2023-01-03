@@ -47,9 +47,10 @@
                 <EnablePreviewFeatures>false</EnablePreviewFeatures>
                 <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
 
-                <DebugSymbols>false</DebugSymbols>
-                <DebugType>none</DebugType>
-                <Optimize>false</Optimize>
+                    <!-- Debug ==================================================== -->
+                    <DebugSymbols>false</DebugSymbols>
+                    <DebugType>none</DebugType>
+                    <Optimize>false</Optimize>
 
                 <ErrorReport>none</ErrorReport>
                 <CodeAnalysisRuleSet />
