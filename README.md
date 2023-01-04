@@ -26,7 +26,7 @@ on interfaces and electronic, digital and virtual media.
     - :file_folder: projectX
       - :page_facing_up: projectX.cs
       - :page_facing_up: projectX.csproj
-- :page_facing_up: solution.workspace
+  - :page_facing_up: solution.workspace
 
 ---
 <sup>
