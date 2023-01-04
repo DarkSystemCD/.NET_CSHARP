@@ -9,6 +9,8 @@ software:
 - vscode
 ---
 
+<div style="cursor: default; user-select: none;">
+  
 # .NET C SHARP | C#
 DarkSystemCD®\
 used to identify, meet, work and publish\
@@ -32,5 +34,7 @@ on interfaces and electronic, digital and virtual media.
 </sub>
 
 ---
+  
+</div>
 
 @microsoft @vscode @darksystemcd @wdhells
