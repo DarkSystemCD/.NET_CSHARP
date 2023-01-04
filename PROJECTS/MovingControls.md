@@ -1,4 +1,4 @@
-[DarkSystemCD®](https://github.com/DarkSystemCD) \ [CSharp](https://github.com/DarkSystemCD/CSharp) \ [PROJECTS]() \ **Moving Controls**
+[DarkSystemCD®](https://github.com/DarkSystemCD) \ [.NET_CSHARP](https://github.com/DarkSystemCD/CSharp) \ [PROJECTS]() \ **Moving Controls**
 <p align="center">
   <img src="https://i.imgur.com/e3jUBda.jpg" title="BloodArt: Computer Software" height="320" width="780">
 </p>
@@ -128,11 +128,7 @@ used as the source control for positioning coordenates of a element in the appli
 `this sample setup illustrate the usability of mouse operations in the application;`<br>
 `resulted of organizing code in the quality of DarkSystemCD projects;`
 
-<hr><div align="right"><sup>thanks for choosing DarkSystemCD.</sup>
-
-[![foo](https://github.githubassets.com/favicon.ico "DarkSystemCD®")](https://github.com/DarkSystemCD) [![foo](https://drive.google.com/uc?authuser=0&id=1vpdRLX_DSKkjvSIkBgyTMRC-2x_FOyf3 "DarkSystemCD®")](https://sites.google.com/view/darksystemcd) [![foo](https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico "DarkSystemCD®")](https://soundcloud.com/darksystemcd)
-
-</div>
+<hr><div align="right"><sup>thanks for choosing DarkSystemCD.</sup></div>
 
 <!--
 when society where to claim the intellectual effort from computer projects
@@ -146,8 +142,8 @@ importances that to compare at cultural magnitude the valuable precence at the w
 identified of a defeat for lost values of participation, here the hate in a war of smiles;
 -->
 
-###### DarkSystemCD® used to identify, meet, work and publish logics and programming design, software, games and music on interfaces and electronic, digital and virtual media.
-
-###### BloodArt.Magazine detailed description available in the projects and productions, developing delivered to collection information in the magazine.
-
-###### WDHellS a virtual personal person trademark and nickname, created for display my creations enabling it’s available world wide.
+# .NET C SHARP | C#
+DarkSystemCD®\
+used to identify, meet, work and publish\
+logics and programming design, software, games and music\
+on interfaces and electronic, digital and virtual media.
