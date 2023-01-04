@@ -27,6 +27,10 @@ on interfaces and electronic, digital and virtual media.
     - :open_file_folder: moving controls
 - :page_facing_up: solution.workspace
 
+<sub>
+:books: project structure reference with vscode;
+</sub>
+
 ---
 
 @microsoft @vscode @darksystemcd @wdhells
