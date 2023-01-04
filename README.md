@@ -1,3 +1,14 @@
+---
+languages:
+- csharp
+- msbuild
+- json
+products:
+- windows-wpf
+software:
+- vscode
+---
+
 # .NET C SHARP | C#
 DarkSystemCD®\
 used to identify, meet, work and publish\
