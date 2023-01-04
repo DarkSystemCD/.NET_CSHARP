@@ -22,11 +22,10 @@ on interfaces and electronic, digital and virtual media.
     - :page_facing_up: launch.json
     - :page_facing_up: tasks.json
   - :file_folder: ~~LIBRARY~~
-  - :file_folder: [PROJECTS](https://github.com/DarkSystemCD/.NET_CSHARP/tree/master/PROJECTS "✉ solution\projects folder organization, simulating each project in code samples&#10;thanks for choosing darksystemcd.")
+  - :open_file_folder: [PROJECTS](https://github.com/DarkSystemCD/.NET_CSHARP/tree/master/PROJECTS "✉ solution\projects folder organization, simulating each project in code samples&#10;thanks for choosing darksystemcd.")
     - :file_folder: projectX
       - :page_facing_up: projectX.cs
       - :page_facing_up: projectX.csproj
-    - :open_file_folder: moving controls
 - :page_facing_up: solution.workspace
 
 ---
