@@ -29,12 +29,10 @@ on interfaces and electronic, digital and virtual media.
     - :open_file_folder: moving controls
 - :page_facing_up: solution.workspace
 
-<sub>
-:books: project structure reference with vscode;
-</sub>
-
 ---
-  
+<sup>
+  <b title="KNOWLEDGE |  project structure reference with vscode;">:books:</b> project structure reference with vscode;
+</sup>
 </div>
 
 @microsoft @vscode @darksystemcd @wdhells
