@@ -28,6 +28,12 @@ on interfaces and electronic, digital and virtual media.
       - :page_facing_up: projectX.csproj
   - :page_facing_up: solution.md
   - :page_facing_up: solution.workspace
+  
+---
+
+SOLUTION<br>
+local and portable organization idealized for desktop perception, having all projects and resources available for development; external resources can be instructed in order to be managed over the internet with teams of developers as a relationship;<br>
+A solution so this way came to be assigned in the perception of content rendering, initializing package managers and cross-platform; idealizing #ifdef being assigned to the framework with .net maui.
 
 ---
 <sup>
