@@ -18,4 +18,5 @@ to fix-it, in File Explorer by enabling View > Hidden Files , navigate to the fo
 </configuration>
 ```
 
+tested in a offline environment<br>
 vscode should now returning building projects;
