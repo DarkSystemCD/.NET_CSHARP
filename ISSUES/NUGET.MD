@@ -20,3 +20,5 @@ to fix-it, in File Explorer by enabling View > Hidden Files , navigate to the fo
 
 tested in a offline environment<br>
 vscode should now returning building projects;
+
+@microsoft @dotnet @vscode
