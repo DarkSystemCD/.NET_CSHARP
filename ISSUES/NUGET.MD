@@ -3,7 +3,7 @@ error : [Unable to load the service index for source](https://github.com/DarkSys
 
 ## Unable to load the service index for source
 
-after updating dotnet version the error appeared;<br>
+- after updating dotnet version the error appeared;<br>
 to fix-it, in File Explorer by enabling View > Hidden Files , navigate to the following directory<br>
 `C:\Users\-UserName-\AppData\Roaming\NuGet\` then open the file `NuGet.Config`
 
