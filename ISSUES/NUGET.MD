@@ -18,8 +18,8 @@ error : [Unable to load the service index for source](https://github.com/DarkSys
 </configuration>
 ```
 
-tested in a offline environment<br>
-issue solution found on the internet<br>
-vscode should now returning building projects;
+[?] tested in a offline environment<br>
+[?] issue solution found on the internet<br>
+[?] vscode should now returning building projects;
 
 @microsoft @dotnet @vscode
