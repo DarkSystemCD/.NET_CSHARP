@@ -1,0 +1,27 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+
+  "settings": {
+    "files.exclude": {
+      "**/bin": true,
+      "**/obj": true
+    },
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": false,
+  },
+
+  "extensions": {
+    "recommendations": [
+      "ms-dotnettools.csharp",
+      "ms-dotnettools.vscode-dotnet-runtime",
+      "aaron-bond.better-comments",
+      "gizak.shortcuts",
+      "gruntfuggly.todo-tree",
+      "tintoy.msbuild-project-tools",
+      "coolchyni.fpctoolkit"
+    ]
+  }
+
+}
