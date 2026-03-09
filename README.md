@@ -27,7 +27,7 @@ Microsoft Learn | Docs<br>
 </tr>
 <tr><td>
 
-- :file_folder: SOLUTION 
+- :file_folder: [SOLUTION ](https://github.com/DarkSystemCD/.NET_CSHARP/blob/SOLUTION/._/solution.md)
   - :file_folder: .vscode 
     - :page_facing_up: launch.json
     - :page_facing_up: tasks.json
