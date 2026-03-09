@@ -1,15 +1,6 @@
 <span id="readme"></span>
 
 ---
-languages:
-- csharp
-- msbuild
-- json
-products:
-- windows-wpf
-software:
-- vscode
----
 
 <div style="cursor: default; user-select: none;">
   
